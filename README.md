@@ -1,0 +1,1 @@
+Learning flask, practice with interacting with APIs and integrating in db. Uses flask wtf forms, SQLalchemy, Jinja nad topmovies api.
